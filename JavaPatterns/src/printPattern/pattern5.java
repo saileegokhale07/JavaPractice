@@ -6,7 +6,7 @@ public class pattern5 {
 		int i,j,num=1;
 		for(i=0;i<=7;i++) {
 			for(j=7;j>i;j--) {
-				System.out.print(num++);
+				System.out.print(num+++" ");
 			}
 			System.out.println();
 			num=1;
